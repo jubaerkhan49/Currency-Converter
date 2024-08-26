@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="convert">Convert</string>
+    <string name="textview_text">No Option Selected"></string>
+    <string name="enter_amount_to">Enter Amount (To)</string>
+    <string name="enter_amount_from">Enter Amount (From)</string>
+    <string name="enter_an_amount">Please Enter an amount</string>
+    <string-array name="CurrencyStringArray">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>BDT</item>
+        <item>INR</item>
+        <item>JPY</item>
+        <item>GBP</item>
+        <item>AUD</item>
+    </string-array>
+</resources>
